@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Create a page with a textarea, where a user writes their introduction/bio in mixed case. There will be a button on click of which the bio will change to upper case and show on a paragraph element below the textarea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hariprasadcm08/React-js.git"
+  },
+  "author": "Hariprasad.cm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hariprasadcm08/React-js/issues"
+  },
+  "homepage": "https://github.com/Hariprasadcm08/React-js#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^5.2.0"
+  }
+}
