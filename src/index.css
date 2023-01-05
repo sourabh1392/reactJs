@@ -1,0 +1,18 @@
+button{
+  color:wheat;
+  background-color:black;
+  display:flex;
+  margin-right: 20%;
+  }
+
+.change{
+  box-shadow: 40px 40px 40px 40px black;
+   background-color: grey;
+}
+
+#one{
+  width:800px;
+  display:flex;
+  justify-content: center;
+
+}
