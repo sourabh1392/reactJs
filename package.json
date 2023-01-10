@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hariprasadcm08/React-js.git"
+    "url": "git+https://github.com/sourabh1392/reactJs.git"
   },
-  "author": "Hariprasad.cm",
+  "author": "Sourabh Patil",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hariprasadcm08/React-js/issues"
+    "url": "https://github.com/sourabh1392/reactJs/issues"
   },
-  "homepage": "https://github.com/Hariprasadcm08/React-js#readme",
+  "homepage": "https://github.com/sourabh1392/reactJs#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-router-dom": "^5.2.0",
